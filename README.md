@@ -41,4 +41,4 @@ This repository will continue to grow with projects in:
 
 ## 📬 Contact
 
-If you have feedback or would like to collaborate, feel free to reach out via [LinkedIn](www.linkedin.com/in/ssaitharun-yeluri) or email.
+If you have feedback or would like to collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ssaitharun-yeluri).
